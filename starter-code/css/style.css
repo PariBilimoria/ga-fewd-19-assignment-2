@@ -154,7 +154,7 @@ footer {
     height: 200px;
     clear: both;
     margin-top: 0px;
-    margin: 
+    text-align: center;
 }
 
 h1 {
@@ -225,7 +225,7 @@ img {
 }
 
 
-.footer {
+footer h2 {
     color: white;
     text-align: center;
     padding-top: 30px;
@@ -249,6 +249,7 @@ small {
     text-align: center;
     color: white;
     font-size: 9px;
+    padding: 50px;
 }
 
 .container {
