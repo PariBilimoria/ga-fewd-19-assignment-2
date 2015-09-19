@@ -57,9 +57,8 @@ Developer @GA in NYC
 
 body {
     color: #000;
-    font-size: 12px;
     line-height: 1.4;
-    font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
 }
 
 
@@ -81,7 +80,7 @@ html {
 }
 
 header {
-    height: 300px;
+    height: 400px;
     background: url(../images/header_bg.jpg) no-repeat center top rgb(134, 141, 157);
     background-size: cover;
     padding: 60px;
@@ -91,13 +90,13 @@ header {
 .button1 {
     color: black;
     text-decoration: none;
-    font-size: 14px;
-    font-weight: bolder;
+    font-size: 28px;
+    font-weight: 800;
     border: 1px;
     border-radius: 5px;
     background: #f9e42e;
-    height: 37px;
-    width: 160px;
+    height: 55px;
+    width: 300px;
     padding: 10px;
     text-align: center;
     display: block;
@@ -109,7 +108,7 @@ header a {
 }
 
 .container2 {
-    height: 250px;
+    height: 500px;
     background-color: #f0efef;
     padding: 40px;
 }
@@ -121,7 +120,7 @@ header a {
 }
 
 .container4 {
-    height: 80px;
+    height: 95px;
     background-color: #f9e42e;
     padding: 20px;
     
@@ -135,13 +134,13 @@ header a {
 .button2 {
     color: white;
     text-decoration: none;
-    font-size: 14px;
-    font-weight: bolder;
+    font-size: 24px;
+    font-weight: 800;
     border: 1px;
     border-radius: 5px;
     background: #033048;
-    height: 37px;
-    width: 160px;
+    height: 55px;
+    width: 300px;
     padding: 10px;
     text-align: center;
     display: block;
@@ -151,22 +150,22 @@ header a {
 
 footer {
     background: #121212;
-    height: 200px;
+    height: 300px;
     clear: both;
     margin-top: 0px;
     text-align: center;
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 48px;
     color: white;
-    font-weight: bolder;
+    font-weight: 800;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 40px;
     margin-top: 0;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .gpom {
@@ -175,14 +174,14 @@ h2 {
 }
 
 .benefits {
-    font-size: 20px;
+    font-size: 26px;
     color: black;
     text-align: left;
+    font-weight: 800;
 }
 
 
 p {
-    font-size: 13px;
     color: white;
     margin-top: 0;
     font-weight: lighter;
@@ -194,16 +193,23 @@ p {
 
 .quote {
     text-align: center;
-    padding: 50px;
-    font-size: 18px;
+    padding: 30px;
+    font-size: 26px;
     font-style: italic;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 .footertxt {
-    font-size: 13px;
+    font-size: 18px;
     font-family: Open Sans;
     color: white;
+}
+
+.amanda {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+    
 }
 
 img {
@@ -238,7 +244,7 @@ footer h2 {
 li {
     list-style: disc;
     font-weight: lighter;
-    font-size: 13px;
+    
 }
 
 nav {
@@ -248,8 +254,9 @@ nav {
 small {
     text-align: center;
     color: white;
-    font-size: 9px;
+    font-size: 18px;
     padding: 50px;
+    font-weight: 600;
 }
 
 .container {
